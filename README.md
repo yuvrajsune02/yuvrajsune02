@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Yuvraj Sune
--
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-yuvrajsune02/yuvrajsune02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Yuvraj 👋
+
+An Innovator, Quick Learner and Web Development Enthusiast....
+## 🛠 My Tech Stack
+ 
+
+
+
+|              |                                                               |
+| ----------------- | ------------------------------------------------------------------ |
+| Web Dev | HTML5, CSS3, Bootstrap, Tailwindcss |
+| Languages | C , SQL, Javascript, Python |
+| Frameworks | NextJs, Adonisjs |
+| Tools | VSCODE, Figma, Git, Photoshop CC |
+
+
+
+## 🚀 About Me
+I'm a full stack web developer...
+
+Nice meeting you !!
+
