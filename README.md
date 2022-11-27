@@ -11,7 +11,7 @@ An Innovator, Quick Learner and Web Development Enthusiast....
 | ----------------- | ------------------------------------------------------------------ |
 | Web Dev | HTML5, CSS3, Bootstrap, Tailwindcss |
 | Languages | C , SQL, Javascript, TypeScript|
-| Frameworks | NextJs, Adonisjs |
+| Frameworks | NextJs (ReactJs), Adonisjs(NodeJs) |
 | Tools | VSCODE, Figma, Git, Photoshop CC |
 
 
