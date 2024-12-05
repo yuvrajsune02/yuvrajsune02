@@ -9,11 +9,12 @@ An Innovator, Quick Learner and Web Development Enthusiast....
 
 |              |                                                               |
 | ----------------- | ------------------------------------------------------------------ |
-| Web Dev | HTML5, CSS3, Tailwindcss v3, Material UI |
+| Web Dev | HTML5, CSS3, Tailwindcss, Material UI |
 | Languages | C, SQL, Javascript ES6, TypeScript |
 | Libraries | ReactJs, Redux |
-| Frameworks | NextJs (ReactJs), Adonisjs (NodeJs) |
-| Tools | VSCODE, Figma, Zeplin, Git, Photoshop CC |
+| Frameworks | NextJs (ReactJs), Adonisjs (NodeJs), Angular, VITE |
+| Tools | VSCODE, Figma, Zeplin, Git, Photoshop CC, GitHub, Gitlab, POSTMAN |
+| Database | MySQL |
 
 
 
