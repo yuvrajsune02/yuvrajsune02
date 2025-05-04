@@ -15,7 +15,7 @@ An Innovator, Quick Learner and Web Development Enthusiast....
 | Frameworks | NextJs (ReactJs), Adonisjs (NodeJs), Angular, VITE |
 | Tools | VSCODE, Figma, Zeplin, Git, Photoshop CC, GitHub, Gitlab, POSTMAN, Azure DevOps |
 | Database | MySQL |
-|Project techs | Monolithic in React and MIrcorfrontend in Angular |
+|Project techs | Monolithic in React and Microfrontend in Angular |
 
 
 ## 🚀 About Me
